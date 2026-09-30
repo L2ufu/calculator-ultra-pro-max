@@ -1,0 +1,14 @@
+C:\Users\25300927\source\repos\calculator ultra-pro-max\calculator ultra-pro-max-super edition\bin\Debug\net10.0\calculator ultra-pro-max-super edition.exe
+C:\Users\25300927\source\repos\calculator ultra-pro-max\calculator ultra-pro-max-super edition\bin\Debug\net10.0\calculator ultra-pro-max-super edition.deps.json
+C:\Users\25300927\source\repos\calculator ultra-pro-max\calculator ultra-pro-max-super edition\bin\Debug\net10.0\calculator ultra-pro-max-super edition.runtimeconfig.json
+C:\Users\25300927\source\repos\calculator ultra-pro-max\calculator ultra-pro-max-super edition\bin\Debug\net10.0\calculator ultra-pro-max-super edition.dll
+C:\Users\25300927\source\repos\calculator ultra-pro-max\calculator ultra-pro-max-super edition\bin\Debug\net10.0\calculator ultra-pro-max-super edition.pdb
+C:\Users\25300927\source\repos\calculator ultra-pro-max\calculator ultra-pro-max-super edition\obj\Debug\net10.0\calculator ultra-pro-max-super edition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25300927\source\repos\calculator ultra-pro-max\calculator ultra-pro-max-super edition\obj\Debug\net10.0\calculator ultra-pro-max-super edition.AssemblyInfoInputs.cache
+C:\Users\25300927\source\repos\calculator ultra-pro-max\calculator ultra-pro-max-super edition\obj\Debug\net10.0\calculator ultra-pro-max-super edition.AssemblyInfo.cs
+C:\Users\25300927\source\repos\calculator ultra-pro-max\calculator ultra-pro-max-super edition\obj\Debug\net10.0\calculator ultra-pro-max-super edition.csproj.CoreCompileInputs.cache
+C:\Users\25300927\source\repos\calculator ultra-pro-max\calculator ultra-pro-max-super edition\obj\Debug\net10.0\calculator ultra-pro-max-super edition.dll
+C:\Users\25300927\source\repos\calculator ultra-pro-max\calculator ultra-pro-max-super edition\obj\Debug\net10.0\refint\calculator ultra-pro-max-super edition.dll
+C:\Users\25300927\source\repos\calculator ultra-pro-max\calculator ultra-pro-max-super edition\obj\Debug\net10.0\calculator ultra-pro-max-super edition.pdb
+C:\Users\25300927\source\repos\calculator ultra-pro-max\calculator ultra-pro-max-super edition\obj\Debug\net10.0\calculator ultra-pro-max-super edition.genruntimeconfig.cache
+C:\Users\25300927\source\repos\calculator ultra-pro-max\calculator ultra-pro-max-super edition\obj\Debug\net10.0\ref\calculator ultra-pro-max-super edition.dll
