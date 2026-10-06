@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net10.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = calculator_ultra_pro_max_super_edition
+build_property.ProjectDir = C:\Users\25300927\Source\Repos\L2ufu\calculator-ultra-pro-max\
